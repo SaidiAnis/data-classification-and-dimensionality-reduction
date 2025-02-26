@@ -1,4 +1,4 @@
-# SVM-Based Data Classification and Dimensionality Reduction
+# Data Classification and Dimensionality Reduction
 
 ## 📌 Project Overview
 
